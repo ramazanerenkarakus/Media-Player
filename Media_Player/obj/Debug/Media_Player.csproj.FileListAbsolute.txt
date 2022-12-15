@@ -1,0 +1,16 @@
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\bin\Debug\Media_Player.exe.config
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\bin\Debug\Media_Player.exe
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\bin\Debug\Media_Player.pdb
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.csproj.AssemblyReference.cache
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.csproj.ResolveComReference.cache
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.Form1.resources
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.Properties.Resources.resources
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.csproj.GenerateResource.cache
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.csproj.CoreCompileInputs.cache
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.exe
+C:\Users\ErenKarakus\Desktop\CodeRepos\WindowsFormApplication\Media_Player\Media_Player\obj\Debug\Media_Player.pdb
